@@ -73,8 +73,11 @@ public class ServicioAudio extends Service {
                 // App not in a valid state to start foreground service
                 // (e.g started from bg)
             }
-            // ...
         }
+    }
+
+    private void comandosAudio(){
+        
     }
 
 
